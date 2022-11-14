@@ -2,7 +2,7 @@ import { Grid, Text } from '@nextui-org/react'
 import { motion } from 'framer-motion'
 
 const Banner2 = () => {
-  function toggle() {
+  function toggle () {
     // arreglar con next router ⬇
     setTimeout(() => {
       window.location.href = '/404'
