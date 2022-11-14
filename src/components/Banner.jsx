@@ -17,7 +17,7 @@ const Banner2 = () => {
             scale: [1.01, 1.1],
             rotate: [0, -360],
             borderRadius: ['12%', '50%'],
-            transition: { duration: 1.2 }
+            transition: { duration: 0.6 }
           }}
         >
           <Text>Hola </Text>

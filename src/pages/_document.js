@@ -22,6 +22,4 @@ class MyDocument extends Document {
     )
   }
 }
-
-// eslint-disable-next-line eol-last
 export default MyDocument
